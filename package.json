@@ -1,0 +1,28 @@
+{
+  "name": "serial_tracker",
+  "version": "1.0.0",
+  "description": "\"created to keep track or all the series,books,movies,tvshows,animes,managas and comics\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mujtabakably/serialTracker.git"
+  },
+  "keywords": [
+    "tracker",
+    "node",
+    "angular",
+    "mongo",
+    "express",
+    "and",
+    "stuff"
+  ],
+  "author": "MujtabaKably",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mujtabakably/serialTracker/issues"
+  },
+  "homepage": "https://github.com/mujtabakably/serialTracker#readme"
+}
